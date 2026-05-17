@@ -4,7 +4,8 @@ Rencana content WPU
 - PHP Framwork
   *ES6
   *Framwork Javascript
-   ^ vue
+   ^ Vue
+   ^ React
 - Sruktur Data Dasar
 - PHP Framwork
   ^ Laravel
