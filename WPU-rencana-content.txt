@@ -2,6 +2,8 @@ Rencana content WPU
 
 - Javascript
 - PHP Framwork
+  *ES6
+  *Framwork Javascript
+- Sruktur Data Dasar
 - Interview
 - vlogs
-- Belajar lagi
