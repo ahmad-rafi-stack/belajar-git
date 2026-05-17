@@ -4,6 +4,11 @@ Rencana content WPU
 - PHP Framwork
   *ES6
   *Framwork Javascript
+   ^ Vue
+   ^ React
 - Sruktur Data Dasar
+- PHP Framwork
+  ^ Laravel
 - Interview
-- vlogs
+- Vlogs
+- Python
