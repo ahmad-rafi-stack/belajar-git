@@ -3,3 +3,4 @@ WPU RESOLUSI
 - Membuat platfrom untuk mengelola video
 - Membuat forum diskusi
 - Membuat Website
+- Membuat project CI3
