@@ -1,4 +1,5 @@
 WPU RESOLUSI
--Konsisten untuk membuat konten 2x seminggu
--Membuat platfrom untuk mengelola video
--Membuat forum diskusi
+- Konsisten untuk membuat konten 2x seminggu
+- Membuat platfrom untuk mengelola video
+- Membuat forum diskusi
+- Membuat Website
